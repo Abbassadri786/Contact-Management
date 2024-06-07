@@ -30,12 +30,25 @@ contact-manager-app/
 │   │   ├── AddContact.js
 │   │   ├── ContactCard.js
 │   │   ├── ContactList.js
-│   │   ├── EditContact.js
+│   │   ├── App.js
+|   |   |___App.css
 │   │   └── Header.js
-│   ├── App.js
 │   ├── index.js
-│   ├── App.css
-│   └── ...
 ├── db.json
 ├── package.json
 └── README.md
+## 📜 License
+-Distributed under the MIT License. See LICENSE for more information.
+
+## 📧 Contact
+-Abbas Sadriwala
+-abbassadri786@gmail.com 
+
+-Project Link: [contact-manager-app](https://github.com/Abbassadri786/Contact-Management)
+
+##🙏 Acknowledgements
+-React Documentation
+-React Router Documentation
+-Axios Documentation
+-Json Server Documentation
+-Thank you for using the Contact Manager App! We hope it helps you manage your contacts efficiently.
