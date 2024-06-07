@@ -37,21 +37,4 @@ contact-manager-app/
 ├── db.json
 ├── package.json
 └── README.md
-# Contact Manager App
-
-## License
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
-## Contact
-- Abbas Sadriwala
-- Email: abbassadri786@gmail.com
-- Project Link: [Contact Manager App](https://github.com/Abbassadri786/Contact-Management)
-
-## Acknowledgements
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [React Router Documentation](https://reactrouter.com/web/guides/quick-start)
-- [Axios Documentation](https://axios-http.com/docs/intro)
-- [Json Server Documentation](https://github.com/typicode/json-server)
-
-Thank you for using the Contact Manager App! We hope it helps you manage your contacts efficiently.
 
